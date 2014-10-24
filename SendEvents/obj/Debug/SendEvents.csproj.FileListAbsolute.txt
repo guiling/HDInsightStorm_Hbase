@@ -1,0 +1,12 @@
+C:\Users\guizha\Documents\Visual Studio 2012\Projects\HDInsightDashBoard\SendEvents\bin\Debug\SendEvents.exe.config
+C:\Users\guizha\Documents\Visual Studio 2012\Projects\HDInsightDashBoard\SendEvents\bin\Debug\SendEvents.exe
+C:\Users\guizha\Documents\Visual Studio 2012\Projects\HDInsightDashBoard\SendEvents\bin\Debug\SendEvents.pdb
+C:\Users\guizha\Documents\Visual Studio 2012\Projects\HDInsightDashBoard\SendEvents\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\guizha\Documents\Visual Studio 2012\Projects\HDInsightDashBoard\SendEvents\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\guizha\Documents\Visual Studio 2012\Projects\HDInsightDashBoard\SendEvents\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guizha\Documents\Visual Studio 2012\Projects\HDInsightDashBoard\SendEvents\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\guizha\Documents\Visual Studio 2012\Projects\HDInsightDashBoard\SendEvents\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\guizha\Documents\Visual Studio 2012\Projects\HDInsightDashBoard\SendEvents\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guizha\Documents\Visual Studio 2012\Projects\HDInsightDashBoard\SendEvents\obj\Debug\SendEvents.csprojResolveAssemblyReference.cache
+C:\Users\guizha\Documents\Visual Studio 2012\Projects\HDInsightDashBoard\SendEvents\obj\Debug\SendEvents.exe
+C:\Users\guizha\Documents\Visual Studio 2012\Projects\HDInsightDashBoard\SendEvents\obj\Debug\SendEvents.pdb
